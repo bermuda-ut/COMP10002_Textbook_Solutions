@@ -1,0 +1,6 @@
+/* comment */ text /* comment * with an asterisk
+that spans two lines */
+a slash can appear / and might / or might // not ///*
+start a comment */
+and an */ can also appear anywhere outside
+a comment **/***////*/**/*//*/ what does/* it */ mean?

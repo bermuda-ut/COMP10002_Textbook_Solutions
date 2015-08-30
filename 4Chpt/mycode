@@ -1,0 +1,13 @@
+//test1
+/*test2*/
+if(wtf) {
+    printf("//");
+    printf("adsf"); //inline
+    printf("// /* */ //");
+}
+//test program */
+//test22 /*
+// /
+// *
+// //
+// **
