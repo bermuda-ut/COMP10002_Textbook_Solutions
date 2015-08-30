@@ -1,4 +1,4 @@
-**These solutions were written by the author's one of countlessly many students.**Do not blame the author if any of the solutions makes you uncomfortable to sleep at night.
+**These solutions were written by the author's one of countlessly many students.** Do not blame the author if any of the solutions makes you uncomfortable to sleep at night.
 
 Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
 
@@ -14,13 +14,14 @@ These *solutions* come with the following **gurantee**
 > - Alistair Moffat, AUG 28 COMP10002 Lecture at Wright Theatre, 2015
  
 > help
-> - Max Lee, while writing the solutions, 2015
+> - Max Lee, while preparing for the mid-semester test, 2015
 
 -
 
 **Book info:**
 
-## Programming, Problem Solving, and Abstraction with C
+## Programming, Problem Solving, and Abstraction
+## with C
 Revised Edition
 ####Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
 
