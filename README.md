@@ -1,4 +1,5 @@
-**These solutions were written by author's one of the countlessly many students.**
+**These solutions were written by the author's one of countlessly many students.**Do not blame the author if any of the solutions makes you uncomfortable to sleep at night.
+
 Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
 
 These *solutions* come with the following **gurantee**
@@ -6,6 +7,7 @@ These *solutions* come with the following **gurantee**
 - [x] Both author and the reader turns immortal.
 - [x] You win life.
 
+-
 
 **Quotes:**
 > I spat at my computer.
