@@ -3,17 +3,17 @@
 Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
 
 These ***solutions*** come with the following **gurantees**
-- [x] These solutions are and stay amazing.
-- [x] Both author and the reader turns immortal.
+- [x] These solutions are and will stay amazing.
+- [x] Both author and the readers will turn immortal.
 - [x] You win life.
 
 -
 
 **Quotes:**
-> I spat at my computer.
-> - Alistair Moffat, AUG 28 COMP10002 Lecture at Wright Theatre, 2015
+> " I spat at my computer. "
+> - Alistair Moffat, COMP10002 Lecture at Wright Theatre, 28 AUG 2015
  
-> help
+> " help "
 > - Max Lee, while preparing for the mid-semester test, 2015
 
 -
