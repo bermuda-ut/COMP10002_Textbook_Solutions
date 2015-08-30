@@ -1,15 +1,15 @@
-**These solutions were written by the author's one of countlessly many students.** Do not blame the author if any of the solutions makes you uncomfortable to sleep at night.
+**These solutions were written by the author's one of countlessly many students.** You had trouble reading that didn't you? Do not blame the author if any of the solutions makes you uncomfortable to sleep at night.
 
 Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
 
-These ***solutions*** come with the following **gurantees**
-- [x] These solutions are and will stay amazing.
+These ***solutions*** come with the following **gurantees**:
+- [x] These solutions are and will stay pitch perfect.
 - [x] Both author and the readers will turn immortal.
 - [x] You win life.
 
 -
 
-**Quotes:**
+**rand() Quotes:**
 > " I spat at my computer. "
 > - Alistair Moffat, COMP10002 Lecture at Wright Theatre, 28 AUG 2015
  
