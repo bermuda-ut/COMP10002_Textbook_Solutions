@@ -23,5 +23,5 @@ Revised Edition
 ####Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
 
 ![Textbook Cover](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/front-cover-revised.jpg)
-[ISBN 9781486010974](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/)
 
+[ISBN 9781486010974](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/)
