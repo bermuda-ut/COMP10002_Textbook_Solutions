@@ -2,7 +2,7 @@
 
 Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
 
-These *solutions* come with the following **gurantee**
+These ***solutions*** come with the following **gurantee**
 - [x] These solutions are and stay amazing.
 - [x] Both author and the reader turns immortal.
 - [x] You win life.
@@ -20,8 +20,7 @@ These *solutions* come with the following **gurantee**
 
 **Book info:**
 
-## Programming, Problem Solving, and Abstraction
-## with C
+## Programming, Problem Solving, and Abstraction with C
 Revised Edition
 ####Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
 
