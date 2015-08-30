@@ -1,19 +1,27 @@
-## Book info:
-
-# Programming, Problem Solving, and Abstraction with C
-Revised Edition
-[ISBN 9781486010974](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/)
-###Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
+**These solutions were written by one of the countlessly many author's students, not the author.**
 
 Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
 
-![Textbook Image](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/front-cover-revised.jpg)
+These *solutions* come with the following **gurantee**
+- [x] These solutions are and stay amazing.
+- [x] Both author and the reader turns immortal.
+- [x] You win life.
+
+**Quotes:**
+> I spat at my computer.
+> - Alistair Moffat, AUG 28 COMP10002 Lecture at Wright Theatre, 2015
+
+> help
+> - Max Lee, while writing the solutions, 2015
 
 -
 
-**These solutions were written by the author's student, not the author.**
+**Book info:**
 
-The *solutions* come with the following **gurantee**
-- [x] The solutions are amazing.
-- [x] Both author and the reader turn extremely successful.
-- [x] You win life.
+## Programming, Problem Solving, and Abstraction with C
+Revised Edition
+####Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
+
+![Textbook Cover](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/front-cover-revised.jpg)
+[ISBN 9781486010974](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/)
+
