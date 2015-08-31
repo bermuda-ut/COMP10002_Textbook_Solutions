@@ -1,6 +1,6 @@
 **These solutions were written by the author's one of countlessly many students.** You had trouble reading that didn't you? Do not blame the author if any of the solutions makes you uncomfortable to sleep at night.
 
-Solutions by [Max Lee](http://imnotbermuda.com) (max.hslee@gmail.com)
+Solutions by [Max Lee](http://imnotbermuda.com) (hoso1312@gmail.com)
 
 These ***solutions*** come with the following **gurantees**:
 - [x] These solutions are and will stay pitch perfect.
