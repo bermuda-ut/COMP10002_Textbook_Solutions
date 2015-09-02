@@ -58,7 +58,7 @@ is_palindrome(char* str) {
 
     printf("String: %s\nClean : %s\nInved : %s\n", str, cleaned, inved);
 
-    if(*inved == *cleaned) {
+    if(strcmp( inved, cleaned) == 0) {
         return 1;
     }
     return 0;
