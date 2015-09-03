@@ -15,7 +15,7 @@ int myatoi(char* str);
 
 int
 main(int argc, char **argv) {
-    char chr[1000];
+    char chr[1000] ;
     int i;
 
     printf("Type string: ");
