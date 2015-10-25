@@ -23,8 +23,8 @@ These ***solutions*** come with the following **gurantees**:
 ## Programming, Problem Solving, and Abstraction with C
 *Revised Edition*
 ####Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
+[Alistair Moffat Appreciation Page](http://algorithmsarelife.com)
 [ISBN 9781486010974](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/)
 
 ![Textbook Cover](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/front-cover-revised.jpg)
 
-[Alistair Moffat Appreciation Page][http://algorithmsarelife.com]
