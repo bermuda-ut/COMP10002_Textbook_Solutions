@@ -27,3 +27,4 @@ These ***solutions*** come with the following **gurantees**:
 
 ![Textbook Cover](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/front-cover-revised.jpg)
 
+[Alistair Moffat Appreciation Page][http://algorithmsarelife.com]
