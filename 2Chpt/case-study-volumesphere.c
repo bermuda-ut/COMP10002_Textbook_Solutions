@@ -18,7 +18,7 @@ main(int argc, char *argv[]) {
 
     printf("Entre radius(m) : ");
     if (scanf("%lf", &radius)) {
-        volume = .75 * PI * radius * radius * radius;
+        volume = 4.0 / 3.0 * PI * radius * radius * radius;
         printf("Voume is %.2fm3.\n", volume);
     } else {
         printf("Invalid input\n");
