@@ -7,8 +7,6 @@ These ***solutions*** come with the following **gurantees**:
 - [x] Both author and the readers will turn immortal.
 - [x] You win life.
 
--
-
 **rand() Quotes:**
 > " I spat at my computer. "
 > - Alistair Moffat, COMP10002 Lecture at Wright Theatre, 28 AUG 2015
@@ -16,13 +14,11 @@ These ***solutions*** come with the following **gurantees**:
 > " help "
 > - Max Lee, while preparing for the mid-semester test, 2015
 
--
-
 **Book info:**
 
 ## Programming, Problem Solving, and Abstraction with C
 *Revised Edition*
-####Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
+#### Author: [Alistair Moffat](http://people.eng.unimelb.edu.au/ammoffat/)
 [Alistair Moffat Appreciation Page](http://algorithmsarelife.com)
 
 [ISBN 9781486010974](http://people.eng.unimelb.edu.au/ammoffat/ppsaa/)
